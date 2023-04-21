@@ -1,0 +1,10 @@
+.idea
+gpt-4-auto-gen-python/.idea
+gpt-4-auto-gen-python/.pytest_cache
+gpt-4-auto-gen-python/venv
+
+gpt-4-auto-gen-rust/.idea
+gpt-4-auto-gen-rust/target
+
+
+

@@ -1,0 +1,9 @@
+/Users/chamindawijayasundara/Documents/self_learn/code-gen-research/gpt-4-auto-gen-rust/trade-micro-service-gpt-4-rust/target/debug/deps/convert_case-59744f427368fef7.rmeta: /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/lib.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/case.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/words.rs
+
+/Users/chamindawijayasundara/Documents/self_learn/code-gen-research/gpt-4-auto-gen-rust/trade-micro-service-gpt-4-rust/target/debug/deps/libconvert_case-59744f427368fef7.rlib: /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/lib.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/case.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/words.rs
+
+/Users/chamindawijayasundara/Documents/self_learn/code-gen-research/gpt-4-auto-gen-rust/trade-micro-service-gpt-4-rust/target/debug/deps/convert_case-59744f427368fef7.d: /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/lib.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/case.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/words.rs
+
+/Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/lib.rs:
+/Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/case.rs:
+/Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.4.0/src/words.rs:

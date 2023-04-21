@@ -1,0 +1,9 @@
+/Users/chamindawijayasundara/Documents/self_learn/code-gen-research/gpt-4-auto-gen-rust/trade-micro-service-gpt-4-rust/target/debug/deps/stringprep-98938c9c99568ce8.rmeta: /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/lib.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/rfc3454.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/tables.rs
+
+/Users/chamindawijayasundara/Documents/self_learn/code-gen-research/gpt-4-auto-gen-rust/trade-micro-service-gpt-4-rust/target/debug/deps/libstringprep-98938c9c99568ce8.rlib: /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/lib.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/rfc3454.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/tables.rs
+
+/Users/chamindawijayasundara/Documents/self_learn/code-gen-research/gpt-4-auto-gen-rust/trade-micro-service-gpt-4-rust/target/debug/deps/stringprep-98938c9c99568ce8.d: /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/lib.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/rfc3454.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/tables.rs
+
+/Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/lib.rs:
+/Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/rfc3454.rs:
+/Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/stringprep-0.1.2/src/tables.rs:

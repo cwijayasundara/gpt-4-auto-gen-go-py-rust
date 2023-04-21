@@ -1,0 +1,9 @@
+/Users/chamindawijayasundara/Documents/self_learn/code-gen-research/gpt-4-auto-gen-rust/trade-micro-service-gpt-4-rust/target/debug/deps/pin_utils-a42c342a9ae1a1d1.rmeta: /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/lib.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/stack_pin.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/projection.rs
+
+/Users/chamindawijayasundara/Documents/self_learn/code-gen-research/gpt-4-auto-gen-rust/trade-micro-service-gpt-4-rust/target/debug/deps/libpin_utils-a42c342a9ae1a1d1.rlib: /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/lib.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/stack_pin.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/projection.rs
+
+/Users/chamindawijayasundara/Documents/self_learn/code-gen-research/gpt-4-auto-gen-rust/trade-micro-service-gpt-4-rust/target/debug/deps/pin_utils-a42c342a9ae1a1d1.d: /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/lib.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/stack_pin.rs /Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/projection.rs
+
+/Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/lib.rs:
+/Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/stack_pin.rs:
+/Users/chamindawijayasundara/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/projection.rs:
